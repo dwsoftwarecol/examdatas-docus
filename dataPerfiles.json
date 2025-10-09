@@ -1,0 +1,940 @@
+[
+    {
+        "cargo": "Gerente General",
+        "actualizacion": "01/11/2023",
+        "dependiencia": "Directiva",
+        "jefe": "Junta de Socios",
+        "supervisa": "Todos los cargos tácticos y operativos",
+        "nivel": "Estratégico",
+        "objetivo": [
+            "Planear, organizar, dirigir, controlar y verificar la gestión global de la empresa, liderando las actividades necesarias para cumplir eficazmente los objetivos planteados y las metas establecidas en el Sistema integrado de gestión, a fin de posicionar a la empresa en los más altos niveles, garantizando la satisfacción de los clientes."
+        ],
+        "autoridad_sig": [
+            "- Autoridad para exigir, a todos los miembros de la organización, las responsabilidades directas y delegadas sobre la documentación, implementación, mantenimiento y mejora del sistema integrado de gestión.",
+            "- Asegurarse de que el Sistema de Gestión de la Calidad es conforme con los requisitos de esta Norma."
+        ],
+        "educacion": "Profesional Administrador de Empresas o homologable con exoeriencia de 5 años en  el sector de lavado de vehículos Automotores.",
+        "formacion": [
+            "- Diploma Grado.",
+            "- Acta de grado.",
+            "- Certificado de estudios actualmente cursados."
+        ],
+        "experiencia": "Mínimo 5 años en cargos igual o similares.",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa."
+        ],
+        "funciones": [
+            "- Dirigir y controlar el optimo funcionamiento de la organización buscando siempre su rentabilidad y crecimiento.",
+            "- Fijar políticas que contribuyan a aumentar la participación de la empresa en el mercado.",
+            "- Buscar permanentemente nuevas oportunidades de negocio y de ser posible concretarlas.",
+            "- Representar a la organización en todos los asuntos judiciales y extrajudiciales.",
+            "- Revisar y aprobar los estados financieros.",
+            "- Evaluar periódicamente la gestión de las diferentes áreas y procesos de la empresa, con el fin de identificar oportunidades de mejora cuando estas sean necesarias.",
+            "- Asegurar la ejecución de actividades y estrategias que busquen reforzar la imagen institucional y de servicio de la empresa, frente a sus clientes actuales y potenciales.",
+            "- Mantener excelentes relaciones con las Entidades Gubernamentales y Privadas que regulan la prestación del servicio de la compañía.",
+            "- Fomentar permanentemente altos niveles de eficiencia y calidad dentro de la organización y en la prestación del servicio.",
+            "- Mantener los equipos, herramientas y demás elementos a su cargo en optimas condiciones de higiene y operatividad."
+        ],
+        "respons_sig": [
+            "- Definir el alcance del Sistema integrado de gestión.",
+            "- Aprobar las políticas así como los objetivos del Sistema integrado de gestión, y que estos sean compatibles con el contexto y la dirección estratégica de la organización.",
+            "- Asegurar la disponibilidad de recursos necesarios para la implementación y desarrollo del Sistema integrado de gestión.",
+            "- Asegurar el cumplimiento de los requisitos legales y otros requisitos que la organización suscriba.",
+            "- Asumir responsabilidades y obligaciones de rendir cuentas con relación a la eficacia del Sistema integrado de gestión.",
+            "- Realizar inspecciones y reuniones gerenciales, dejando registro de lo observado y de los correctivos propuestos.",
+            "- Establecer procesos de comunicación apropiados dentro de la organización eficaces para el desarrollo del Sistema integrado de gestión.",
+            "- Promover la participación del personal en todas las actividades relacionadas con el desarrollo del Sistema integrado de gestión.",
+            "- Comunicar a la organización la importancia de satisfacer tanto los requisitos del cliente como los legales y reglamentarios.",
+            "- Realizar Revisiones Gerenciales al Sistema integrado de gestión.",
+            "- Participar activamente en las capacitaciones  y actividades que se realicen para el buen funcionamiento del Sistema integrado de gestión.",
+            "- Cumplir y / o hacer cumplir los procedimientos, programas y políticas del Sistema integrado de gestión.",
+            "- Realizar y aprobar las evaluaciones de desempeño de todo el personal de la compañía.",
+            "- Garantizar la disponibilidad de personal responsable de la seguridad y la salud en el trabajo, cuyo perfil deberá ser acorde con lo establecido con la normatividad vigente y los estándares mínimos que para tal efecto determine el Ministerio del Trabajo.",
+            "- Mantener el enfoque en el aumento de la satisfacción del cliente.",
+            "- Asegurarse de que las responsabilidades y autoridades para los roles pertinentes se asignen, se comuniquen y se entiendan en toda la organización.",
+            "- Garantizar la protección de los trabajadores, acorde con lo establecido en la normatividad vigente.",
+            "- Diseñar y desarrollar un plan de trabajo anual para alcanzar cada uno de los objetivos propuestos del Sistema integrado de gestión.",
+            "- Propiciar la elección de los representantes de los trabajadores al Comité COPASST, de acuerdo con la resolución, garantizando la libertad y oportunidad de las votaciones.Designar sus representantes del COPASST y su respectivo  Presidente.Proporcionar los medios necesarios para el normal desempeño de las funciones del Comité.",
+            "- Otras actividades adicionales que se deriven del cargo."
+        ],
+        "respons_sv": [
+            "- Promover en la organización la formación y aplicación de hábitos, comportamientos y conductas seguras en la vía.",
+            "- Participar en(1) una reunión del comité de seguridad vial por lo menso una(1)  vez al año para revisar los resultados de la planificación, implementación, seguimiento y mejora del PESV.",
+            "- Designar una persona con poder de decisión en los temas relacionados con la gestion de seguridad vial.",
+            "- Definir los roles y funciones de cada integrante de la organización, a efectos de cumplir los objetivos trazados en el Plan Estratégico de Seguridad Vial."
+        ],
+        "rendicion_sig": [
+            "- Avance, cumplimiento y deficiencias del plan anual de trabajo.",
+            "- Estado actual de la intervención sobre los peligros identificados.",
+            "- Estado de la documentación legal y de soporte del SG - SST.",
+            "- Evaluación del desempeño del responsable del SG - SST elaborada por la alta dirección."
+        ]
+    },
+    {
+        "cargo": "Coordinador RRHH",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "Administrativa",
+        "jefe": "Gerente General",
+        "supervisa": "Auxiliar de RRHH",
+        "nivel": "Táctico",
+        "objetivo": [
+            "Seleccionar, retener y motivar a los empleados desarrollando un sentimiento de compromiso con la organización, que deberán traducirse en una mayor satisfacción, productividad y adaptabilidad."
+        ],
+        "autoridad_sig": [
+            "- Informar, en particular, a la alta dirección sobre el desempeño del SIG y sobre las oportunidades de mejora.",
+            "- Asegurarse de que se promueva el enfoque al cliente en toda la organización.",
+            "- Asegurarse de que la integridad del SIG se mantenga cuando se planifican e implementan cambios en el mismo.",
+            "- Autoridad para exigir, a todos los miembros de la organización, las responsabilidades directas y delegadas sobre la documentación, implementación, mantenimiento y mejora del sistema integrado de gestión."
+        ],
+        "educacion": "Profesional. y/o estudiante de últimos semestres de carreras administrativas o ciencias humanas.",
+        "formacion": [
+            "- Curso de 50 horas virtuales del SG-SST."
+        ],
+        "experiencia": "Mínimo 1 años en cargos similares.",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa."
+        ],
+        "funciones": [
+            "- Planificación estratégica del capital humano, en relación a su organización y desarrollo",
+            "- Retener a los empleados deseables",
+            "- Motivar a los empleados para que estos adquieran un compromiso con la empresa y se involucren en ella",
+            "- Evaluar el desempeño del personal, promocionando el desarrollo del liderazgo.",
+            "- Capacitar y desarrollar programas, cursos y toda actividad que vaya en función del mejoramiento de los conocimientos del personal.",
+            "- Controlar la asistencia y los horarios de trabajo, sin perjuicio del control obligatorio que debe realizar cada Dirección.",
+            "- Poner en marcha con la máxima eficiencia el Plan de Recursos Humanos así como el presupuesto anual de Recursos Humanos destinado a su ejecución",
+            "- Velar por el bienestar tanto físico como mental de todos los trabajadores",
+            "- Toma de decisiones estratégicas relacionadas con la organización de la plantilla, como la gestión de movilidad geográfica",
+            "- Recibir solicitudes del personal directo e indirecto",
+            "- Resolución de los problemas laborales - Comité de convivencia",
+            "- Implementar y divulgar la cultura organizacional",
+            "- Velar por un buen clima laboral.",
+            "- Tramitación de despidos",
+            "- Contabilizar nómina Operativa y Administrativa y verificarla con la de Excel.",
+            "- Plan de comunicación interna.Garantizar canales de comunicación efectivos y suficientes entre los diferentes niveles de la empresa, así como entre los trabajadores",
+            "- Crear los mecanismos necesarios para detectar el talento dentro de la empresa y motivar su desarrollo en beneficio de la Organización y del empleado",
+            "- Tener actualizado plataforma de seguridad social y la Intranet de la compañia con los ingresos nuevos",
+            "- Generar los manuales para el óptimo desempeño de funciones",
+            "- Mejorar la visibilidad y la marca de la empresa cooperando con departamentos clave",
+            "- Realizar investigaciones y consultas sobre compensaciones y beneficios",
+            "- Gestión de permisos y vacaciones",
+            "- Hacer un seguimiento y notificar tasas de rotación",
+            "- Generar comunicados, informes, reportes entre otros documentos ante los requerimientos que establezcan gerencia así como los comunicados de carácter legal emitidos a la compañía.",
+            "- Realizar llamados de atención, descargos al personal, memorandos y circulares.",
+            "- Se encarga de los procesos de reclutamiento y selección",
+            "- Formalización de los contratos",
+            "- Otras funciones y  responsabilidades que se deriven del cargo."
+        ],
+        "respons_sig": [
+            "- Suministras informe de las condiciones de salud, junto con el perfil sociodemográfico de la población trabajadora.",
+            "- Diseñar e implementar el programa de capacitación anual incluyendo los soportes de inducción, reinducción y capacitaciones de los trabajadores dependientes, contratistas y en misión.",
+            "- Conservar los registros y documentos que soportan el Sistema integrado de gestión, de manera controlada.",
+            "- Asegurar que las personas sean competentes, basado el perfil de cargos y / o experiencia.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en el proceso en los que participa, mediante le cumplimiento de las estrategias establecidas por el área.",
+            "- Adoptar y mantener las disposiciones que garanticen el cumplimiento del Sistema integrado de gestión en tema en la contratación.",
+            "- Procurar el cuidado integral de su salud.",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud.",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema integrado de gestión.",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo.",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del Sistema integrado de gestión.",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema integrado de gestión.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Participar en las votaciones del COPASST y CCL",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema integrado de gestión.",
+            "- Participar proactivamente en el cumplimiento del Programa de Gestión Ambiental: separando correctamente los residuos solidos y líquidos, y no desperdiciando agua ni energía eléctrica.",
+            "- Responsabilizarse del manejo ambiental de su puesto de trabajo y mantenerlo limpio y ordenado."
+        ],
+        "respons_sv": [
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "- Estado actual de la intervención sobre los peligros identificados",
+            "- Estado actual y observancia del programa de capacitaciones",
+            "- Desempeño en relación a los indicadores de los diferentes programas",
+            "- Estado de las comunicaciones en la organización",
+            "- Evaluación del desempeño del responsable del SG - SST elaborada por la alta dirección"
+        ]
+    },
+    {
+        "cargo": "Auxiliar RRHH",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "Administrativa",
+        "jefe": "Coordinador RRHH",
+        "supervisa": "N/T",
+        "nivel": "Tactico",
+        "objetivo": [
+            "Creación y seguimiento a la base de datos de la empresa, recopilación de documentación del personal de nuevo ingreso, manejo del archivo y organización del mismo, revisar incapacidades de los trabajadores, entregar certificaciones laborales y entrega de paz y salvo a los egresados."
+        ],
+        "autoridad_sig": [
+            "- Informar, en particular, a la alta dirección sobre el desempeño del SIG y sobre las oportunidades de mejora."
+        ],
+        "educacion": "Tecnico en Gestión Humana y/o Estudiante de carreras afines.",
+        "formacion": [
+            "- Gestion del talento humano."
+        ],
+        "experiencia": "Mínimo 6 meses en cargos similares.",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa."
+        ],
+        "funciones": [
+            "- Citar personal para entrevistas",
+            "- Confirmar referencias de los candidatos a ser contratados",
+            "- Informar a su jefe inmediato, el resultado del proceso de verificación de referencias",
+            "- Procesar información de soporte. Se encarga de procesar formularios y demás documentos que sirvan como soporte para diferentes actividades de la unidad de recursos humanos",
+            "- Realizar el proceso de inducción y reinducción al personal contratado",
+            "- Apoyar el procesos de reclutamiento",
+            "- Asistir durante el proceso de contratación",
+            "- Realizar la entrega y control de dotación",
+            "- Realizar informe mensual de la entrega de la dotación",
+            "- Programar y coordinar la losgistica requerida para el desarrollo de las actividades del programa de bienestar",
+            "- Mantiener al día el archivo del personal",
+            "- Cobro de incapacidades por enfermedad general o laborales, licencias de maternidad, paternidad ante las EPS y ARL",
+            "- Mantener actualizada la documentación y los registros con todos los antecedentes y la información referida al personal",
+            "- Realizar las afiliaciones de  seguridad social ARL, EPS, Fondo de pensiones y Caja de compensación, del personal recien contratado",
+            "- Formalizar la firma del contrato de trabajo y proceder a archivarlo en la carpeta de cada trabajador",
+            "- Administrar el archivo de las carpetas de hojas de vida de todo el personal",
+            "- Selección y contratar aprendices SENA",
+            "- Divulgar manuales para el óptimo desempeño de funciones",
+            "- Aclaraciones de mora con la ARL",
+            "- Reportar los retiros de empleados a la ARL correspondiente",
+            "- Conciliación mensual de cuentas de nómina",
+            "- Atender y gestionar solicitudes de personal, afiliación de beneficiarios a EPS, CCF.",
+            "- Digitalizar y archivar memorandos, garantizando la adecuada custodia de los mismos.",
+            "- Realizar visitas  al Centro de operación cada vez que sea  requerido.",
+            "- Demás actividades que le sean asignadas."
+        ],
+        "respons_sig": [
+            "- Procurar el cuidado integral de su salud.",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud.",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema integrado de gestion.",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo.",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del Sistema integrado de gestion.",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema integrado de gestion.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Participar en las votaciones del COPASST y CCL.",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema integrado de gestion.",
+            "- Participar pro - activamente en el cumplimiento del Programa de Gestión Ambiental: separando correctamente los residuos solidos y liquidos, y no desperdiciendo agua ni energia electrica.",
+            "- Responsabilizarse del manejo ambiental de su puesto de trabajo y mantenerlo limpio y ordenado."
+        ],
+        "respons_sv": [
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "- Análisis del ausentismo laboral y de las acciones derivadas de este",
+            "- Estado de las comunicaciones en la organización"
+        ]
+    },
+    {
+        "cargo": "Líder HSEQ",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "HSEQ",
+        "jefe": "Gerente General",
+        "supervisa": "Coordinador HSEQ, Auxiliar HSEQ.",
+        "nivel": "Táctico",
+        "objetivo": [
+            "- Garantizar el cumplimiento de las normas legales vigentes, así como la de mantener a la compañía dentro de los mas altos índices del SIG",
+            "- Ser el representante de la dirección para el SIG"
+        ],
+        "autoridad_sig": [
+            "- Generar cambios y actualizar el SIG con aprobación de gerencia",
+            "- Divulgar y facilitar la documentación referente al SIG",
+            "- Solicitar el reporte de indicadores a los dueños de proceso",
+            "- Informar y garantizar el cumplimiento de las responsabilidades de todos los niveles de la organización frente al SIG",
+            "- Presentar y mantener vigentes certificaciones del SIG",
+            "- Detener procesos o actividades que coloquen en riesgo de la seguridad de cualquier personal vinculado a la compañía"
+        ],
+        "educacion": "Ingeniero (a) en SG-SST, Profesional en SST y/o carreras afines",
+        "formacion": [
+            "- Licencia en seguridad y salud en el trabajo.",
+            "- Curso de 50 horas virtuales del SG - SST.",
+            "- Certificado Auditor Interno SGI"
+        ],
+        "experiencia": "Mínimo 6 meses en cargos similares para profesional en SST. Homologa profesional(en proceso de grado) con 5 años de experiencia en cargos similares",
+        "formacion_com": [
+            "- Auditor interno integral",
+            "- Certificado coordinador en alturas"
+        ],
+        "funciones": [
+            "- Planificar las actividades de su área de trabajo, así como sus objetivos y metas.",
+            "- Diseñar y desarrollar el Sistema de Seguridad y salud en el trabajo, Ambiente y calidad con la colaboración de personal especializado.",
+            "- Elaborar, implementar y controlar el cumplimiento del plan anual, y programas del sistema integral de gestión.",
+            "- Elaborar propuestas de Planes de Trabajo y Planes de Capacitación del Sistema, así como efectuar su seguimiento.",
+            "- Coordinar y ejecutar las acciones relacionadas con el diseño, implementación, mantenimiento y mejora del Sistema.",
+            "- Reunir información pertinente para presentar el informe de Revisión por la Dirección del Sistema Integrado de gestión.",
+            "- Coordinar la Revisión por la Dirección del Sistema Integrado de Gestión y elaborar el acta de revisión por la dirección.",
+            "- Asegurarse que se tomen las acciones sin demora injustificada para eliminar las no Conformidades detectadas y sus causas.",
+            "- Presentar los informes requeridos por la Alta Dirección Estipulado según el plan de trabajo anual.",
+            "- Gestionar y recibir las Auditorias de los entes certificadores.",
+            "- Consolidad los planes de mejoramiento del Sistema Integrado de Gestión, producto de auditoria con entes certificadores.",
+            "- Realizar acompañamiento y asesoría a los diferentes procesos del Sistema.",
+            "- Coordinar, revisar y supervisar las actividades de los profesionales a su cargo en materia de gestión de calidad, gestión de seguridad y salud ocupacional y gestión ambiental.",
+            "- Acompañamiento a los clientes de la compañía.",
+            "- Elaborar y controlar el presupuesto necesario para el logro de las actividades del SGSST.",
+            "- Coordinar las reuniones del comité de SIG del proceso.",
+            "- Identificar los agentes de riesgo físicos, químicos, biológicos, psicosociales, ergonómicos, mecánicos, eléctricos, locativos, mediante inspecciones de seguridad periódicas a los sitios de trabajo.",
+            "- Analizar las características de diseño y calidad de los elementos de protección personal, que se suministran al  personal, controlando su efectividad.",
+            "- Revisar el cumplimiento de los requisitos legales y de otra índole.",
+            "- Rendir cuentas a gerencia por el cumplimiento del sistema integrado de gestión.",
+            "- Otras funciones y  responsabilidades que se deriven del cargo."
+        ],
+        "respons_sig": [
+            "- Planear, organizar, dirigir, desarrollar y aplicar el Sistema integrado de gestión, y como mínimo una(1) vez al año, realizar su evaluación.",
+            "- Gestionar la implementación, permanencia y mejora continua del sistema integrado de gestión bajo la directrices y según los recursos que disponga Gerencia.",
+            "- Informar a la alta dirección sobre el desempeño del sistema integrado de gestión y de cualquier necesidad de mejora.",
+            "- Orientar a todos los colaboradores de la organización en todos los temas relacionados con el sistema integrado de gestión.",
+            "- Coordinar el correcto funcionamiento de los procesos y efectuar seguimiento, y ejercer las responsabilidades que están estipuladas en los procedimientos de estos procesos.",
+            "- Identificar los peligrosos existentes en los procesos de la empresa respecto a las personas, el medio ambiente y la comunidad, valorar el nivel de riesgo de los mismos, determinar controles para mitigar los posibles efectos e implementarlos para garantizar 0 accidentes y afectación ambiental y a la comunidad.",
+            "- Velar por la aplicación de los controles definidos en el sistema integrado de gestión tanto en oficina como en los centros de trabajo.",
+            "- Reportar a la ARL los accidentes laborales y hacer seguimiento al caso.",
+            "- Realizar investigación de accidentes / incidentes laborales.",
+            "- Mantener actualizada y dar cumplimiento a lo establecido en la  matriz de requisitos legales.",
+            "- Aplicar los programas del sistema integrado de gestión de acuerdo a los tipos de riesgo encontrados en las áreas donde opera la empresa.",
+            "- Lograr la formalización de los contratos dentro de los cronogramas establecidos por los clientes.",
+            "- Diseño e implementación del  plan anual de trabajo.",
+            "- Informar a la alta dirección sobre el funcionamiento y los resultados del Sistema integral de gestión.",
+            "- Garantizar el cumplimiento de las normas legales vigente.",
+            "- Vigilar la aplicación y cumplimiento de las Políticas de la compañía.",
+            "- Participar en las revisiones por la dirección.",
+            "- Realizar informes mensuales sobre el desempeño del proceso de gestión integral.",
+            "- Asesorar a todos los procesos de la compañía en aspectos relacionados el sistema integrado de gestión, recomendando la adopción y coordinado su Implementación.",
+            "- Diseñar, divulgar e implementar los programas de prevención de riesgos, de acuerdo a las normas legales vigentes y a las necesidades específicas de la organización.",
+            "- Analizar las características de diseño y calidad de los elementos de protección personal, que se suministran al personal, controlando su efectividad.",
+            "- Analizar los accidentes / incidentes y eventos anormales que ocurran, recomendando la adopción de medidas tendientes a evitar su repetición.",
+            "- Diseñar y / o actualizadas las estadísticas de accidentalidad, enfermedades laborales y ausentismo por incapacidad.",
+            "- Diseñar, organizar y mantener planes de emergencia para todas las instalaciones de la organización.",
+            "- Elabora, somete a consideración de la Gerencia y controla los presupuestos con miras a garantizar la asignación de los recursos necesarios para la ejecución del Sistema integrado de gestión.",
+            "- Desarrolla sistemas de motivación y comunicación que promuevan la información y acciones de prevención de riesgos a todo  los niveles de la Organización.",
+            "- Participar en las votaciones del COPASST y CCL.",
+            "- Establecer normas y procedimientos seguros para las actividades que realice la organización, verificando su cumplimiento y revisándolas periódicamente para mantenerlas actualizadas.",
+            "- Asesorar y apoyar al Comité de seguridad y salud en el trabajo.",
+            "- Asesorar, auditar y controlar a los contratistas a fin de garantizar de que cumplen con las normas legales y procedimientos internos del sistema integrado de gestión.",
+            "- Verificar el cumplimiento de la realización de exámenes médicos, ingreso, periódicos, egreso, reubicación, post - incapacidad  de acuerdo a las características de los puestos de trabajo.",
+            "- Coordinar con el medico especialista en salud ocupacional el desarrollo de profesiogramas y programas de vigilancia epidemiológica.",
+            "- Asegurar que se presenten informes sobre desempeño del sistema integrado de gestión a la alta dirección.",
+            "- Servir de apoyo a las decisiones Gerenciales.",
+            "- Planificar, establecer, implementar y mantener uno o varios programas de auditoría que incluyan la frecuencia, los métodos, las responsabilidades, los requisitos de planificación y la elaboración de informes, que deben tener en consideración la importancia de los procesos involucrados, los cambios que afecten a la organización y los resultados de las auditorías previas.",
+            "- Realizar las correcciones y tomar las acciones correctivas adecuadas sin demora injustificada.",
+            "- Representar a la empresa ante organismos certificadores y en auditorias de segunda parte.",
+            "- Conservar la información documentada apropiada como evidencia de la implementación y los resultados obtenidos en el sistema integrado de gestión.",
+            "- Cumplir con los indicadores de gestión definidos en la normatividad legal vigente y realizar seguimiento a cada uno de los procesos de la organización.",
+            "- Procurar el cuidado integral de su salud.",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud.",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema integrado de gestión.",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo.",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del Sistema integrado de gestión.",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema integrado de gestión.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema integrado de gestión."
+        ],
+        "respons_sv": [
+            "- Lider del PESV: Dar respuesta oportuna a las solicitudes recibidas por parte de las entidades verificadoras y de control frente a los requisitos aplicables al PESV.",
+            "- Lider del PESV: Participar y liderar las auditorias realizadas por las entidades de control en donde se verifiquen requisitos aplicables al PESV.",
+            "- Lider del PESV: Realizar la gestion y seguimiento de cierre de hallazgo resultantes de las visitas de verificacion que realicen las entidades de control segun corresponda con la funcion y verificacion del plan estrategico de seguridad vial.",
+            "- Lider del PESV: Realizar el reporte de Autogestion anual a los medios que disponga la entidad verificadora(ministerio de transito y ministerio de trabajo) y la medicion de los indicadores del PESV.",
+            "- Lider del PESV: Velar por el cumplimiento de las etapas de planificacion, implementacion, seguimiento y mejora del PESV.",
+            "- Lider del PESV: Realizar la medición, analisis y cumplimiento de los indicadores del plan estrategico de seguridad vial.",
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "- Estado actual de la intervención sobre los peligros identificados.",
+            "- Estado actual y observancia del programa de capacitaciones.",
+            "- Desempeño en relación a los indicadores de los diferentes programas.",
+            "- Estado actual de la investigación de accidentes y enfermedades laborales.",
+            "- Cumplimiento de los planes de acción establecidos.",
+            "- Nivel de cumplimiento de los requisitos legales.",
+            "- Ejecución del presupuesto.",
+            "- Estado de las comunicaciones en la organización.",
+            "- Estado de la documentación legal y de soporte del SG - SST."
+        ]
+    },
+    {
+        "cargo": "Coordinador HSEQ",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "HSEQ",
+        "jefe": "Lider HSEQ",
+        "supervisa": "Auxiliar HSEQ",
+        "nivel": "Operativo",
+        "objetivo": [
+            "- Mantener y mejorar  y alcanzar los objetivos del sistema integrado de gestión.",
+            "- Garantizar el cumplimiento de las normas legales vigentes, así como la de mantener a la compañía dentro de los mas altos índices del SIG."
+        ],
+        "autoridad_sig": [
+            "- Informar, en particular, a la alta dirección sobre el desempeño del SIG y sobre las oportunidades de mejora.",
+            "- Asegurarse de que se promueva el enfoque al cliente en toda la organización.",
+            "- Asegurarse de que la integridad del SIG se mantenga cuando se planifican e implementan cambios en el mismo.",
+            "- Autoridad para exigir, a todos los miembros de la organización, las responsabilidades directas y delegadas sobre la documentación, implementación, mantenimiento y mejora del sistema integrado de gestión."
+        ],
+        "educacion": "Profesional y/o Técnico en SG-SST o carreras afines",
+        "formacion": [
+            "- Certificado de estudio del Técnico y / o Profesional.",
+            "- Curso de 50 horas del SG - SST."
+        ],
+        "experiencia": "Mínimo 6 meses en cargos similares.",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa"
+        ],
+        "funciones": [
+            "- Ser apoyo para el Lider HSEQ.",
+            "- Acompañamiento y supervisión al personal HSQ.",
+            "- Divulgar política, objetivos de calidad, visión, misión, valores. (manual integrado de gestión) y comunicar otros temas relativos al sistema integrado de gestión.",
+            "- Asegurar la implementación del Sistema integrado de gestión.",
+            "- Garantizar una interacción adecuada entre los procesos.",
+            "- Implementar el programa de auditorías internas, manual integrado de gestión, procedimientos, entre otros documentos del proceso de Mejora Continua.",
+            "- Garantizar la etapa de formalización de los contratos ante el cliente.",
+            "- Identificar e implementar acciones correctivas, preventivas y de mejora y lograr que el personal las identifique, trate y ejecute los planes de acción de las misma.",
+            "- Realizar seguimiento a la eficiencia de las acciones correctivas y preventivas del Sistema integrado de gestión y el cierre de estas.",
+            "- Realizar seguimiento a los procesos, productos y al Sistema integrado de gestión en general a través de los métodos de seguimiento y medición.",
+            "- Mantener actualizada la planeación de indicadores de la organización y del Sistema integrado de gestión.",
+            "- Asegurar la disponibilidad de los documentos en los puntos de uso, legibles e identificables.",
+            "- Garantizar la trazabilidad de los cambios en los documentos internos del Sistema integrado de gestión.",
+            "- Acompañar las actividades que se generen desde el momento en que suceda un accidente de trabajo y comunicar al Director HSEQ las novedades.",
+            "- Implementar el programa de inspecciones ya sea de manera directa o delegando.",
+            "- Valorar el riesgo HSEQ por medio de la matriz de  factores de riesgo y la Matriz de impacto ambiental o las herramientas vigentes.",
+            "- Coordinar y supervisar actividades con trabajo en alturas, sólo si cumple con los requisitos de ley.",
+            "- Identificar necesidades de capacitación del personal e implementar programa de formación y capacitación de personal de la compañía.",
+            "- Controlar los documentos obsoletos y externos."
+        ],
+        "respons_sig": [
+            "- Implementación, permanencia y mejora continua del sistema integrado de gestión bajo la directrices y según los recursos que disponga Gerencia.",
+            "- Orientar a todos los colaboradores de la organización en todos los temas relacionados con el sistema integrado de gestión.",
+            "- Vigilar la aplicación y cumplimiento de las Políticas de la compañía.",
+            "- Realizar informes mensuales sobre el desempeño del proceso de gestión integral.",
+            "- Divulgar e implementar los programas de prevención de riesgos, de acuerdo a las normas legales vigentes y a las necesidades específicas de la organización.",
+            "- Actualizar estadísticas de accidentalidad, enfermedades laborales y ausentismo por incapacidad.",
+            "- Organizar y mantener planes de emergencia para todas las instalaciones de la organización.",
+            "- Analizar los accidentes / incidentes y eventos anormales que ocurran, recomendando la adopción de medidas tendientes a evitar su repetición.",
+            "- Mantener actualizada y dar cumplimiento a lo establecido en la  matriz de requisitos legales.",
+            "- Cumplir con los indicadores de gestión definidos en la normatividad legal vigente y realizar seguimiento a cada uno de los procesos de la organización.",
+            "- Procurar el cuidado integral de su salud.",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud.",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema integrado de gestión.",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo.",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del Sistema integrado de gestión.",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema integrado de gestión.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Participar en las votaciones del COPASST y CCL.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema integrado de gestión.",
+            "- Participar proactivamente en el cumplimiento del Programa de Gestión Ambiental: separando correctamente los residuos solidos y líquidos, y no desperdiciando agua ni energía eléctrica."
+        ],
+        "respons_sv": [
+            "- Lider del PESV: Dar respuesta oportuna a las solicitudes recibidas por parte de las entidades verificadoras y de control frente a los requisitos aplicables al PESV.",
+            "- Lider del PESV: Participar y liderar las auditorias realizadas por las entidades de control en donde se verifiquen requisitos aplicables al PESV.",
+            "- Lider del PESV: Realizar la gestion y seguimiento de cierre de hallazgo resultantes de las visitas de verificacion que realicen las entidades de control segun corresponda con la funcion y verificacion del plan estrategico de seguridad vial.",
+            "- Lider del PESV: Realizar el reporte de Autogestion anual a los medios que disponga la entidad verificadora(ministerio de transito y ministerio de trabajo) y la medicion de los indicadores del PESV.",
+            "- Lider del PESV: Velar por el cumplimiento de las etapas de planificacion, implementacion, seguimiento y mejora del PESV.",
+            "- Lider del PESV: Realizar la medición, analisis y cumplimiento de los indicadores del plan estrategico de seguridad vial.",
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "- Desempeño en relación a los indicadores de los diferentes programas",
+            "- Estado de las comunicaciones en la organización"
+        ]
+    },
+    {
+        "cargo": "Auxiliar HSEQ",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "HSEQ",
+        "jefe": "Lider HSEQ, Coordinador HSEQ",
+        "supervisa": "N/A",
+        "nivel": "Operativo",
+        "objetivo": [
+            "Apoyar en la planificación y ejecución de las actividades y acciones que surgen de la implementación, documentación, mantenimiento y mejora continua del Sistema integrado de gestión, encaminadas al mejoramiento y bienestar del trabajador para dar cumplimiento a la normatividad vigente."
+        ],
+        "autoridad_sig": [
+            "- Informar, en particular, a la alta dirección sobre el desempeño del SIG y sobre las oportunidades de mejora"
+        ],
+        "educacion": "Técnico, tecnólogo en gestión integrada (HSEQ) y/o ambientales",
+        "formacion": [
+            "- Curso de 50 horas virtuales del SG-SST."
+        ],
+        "experiencia": "Mínimo 6 meses en cargos similares",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa",
+            "- Formación de lideres de gestión HSEQ ARL, SENA",
+            "- Curso de alturas"
+        ],
+        "funciones": [
+            "- Realizar inspecciones planeadas y no planeadas, establecidas dentro del plan anual y programas del SGI",
+            "- Apoyar la ejecución de las acciones de los subprogramas del Sistema integrado de gestión de acuerdo a las actividades definidas dentro del cronograma.",
+            "- Apoyo en la divulgación y actualización de los procedimientos obligatorios exigidos por las normas técnicas base del Sistema integrado de gestión.",
+            "- Apoyar a la recolección de evidencia para la realización de investigaciones de accidentes e incidentes presentados en la compañía y seguimiento a las personas accidentadas para darle cierre correcto al accidente",
+            "- Apoyar en la gestión de los reportes de las condiciones peligrosas y notificadas por las dependencias.",
+            "- Apoyar en actualización de la matriz de identificación de peligros, evaluación y valoración de los riesgos.",
+            "- Apoyar a mantener y verificar el orden y aseo de las diferentes dependencias de la compañía.",
+            "- Apoyar con rotulación de sustancias químicas dentro de los centros de trabajo.",
+            "- Apoyar con la implementación de la matriz de capacitaciones.",
+            "- Apoyar con la elaboración y divulgación de lecciones aprendidas dadas por Accidentes laborales e incidentes.",
+            "- Acompañamiento en los centros de trabajo cuando se realicen trabajo de alto riesgo. (Alturas).",
+            "- Apoyar en los cierres de hallazgos generados interna y externamente.",
+            "- Actualización de carpetas HSEQ ubicados en los centros de trabajo.",
+            "- Elaboración de informes HSEQ de cada centro de trabajo.",
+            "- Actualización de indicadores de gestión.",
+            "- Ejecutar las capacitaciones necesarias para el desarrollo y mejora del SGI",
+            "- Realizar la entrega de los elementos de protección personal de acuerdo a las necesidades propias del cargo.",
+            "- Demás actividades que le sean asignadas según necesidades del cargo y que sean establecidas con previo aviso.",
+            "- Solicitar y revisar  las necesidades de compras en HSEQ para cada centro de operaciones",
+            "- verificar el uso de los elementos de protección personal y la dotación de los trabajadores",
+            "- Mantener informado al coordinador HSEQ, Ambiental, los directores ambiental y HSEQ de las actividades que se estén realizando",
+            "- Instruir y orientar a los empleados respecto a la ejecución segura de sus labores, especialmente en aquellas que son de alto riesgo",
+            "- Apoyar en la ejecución de simulacros dejando registros e informe de estos",
+            "- Realizar jornadas de orden y aseo periódicamente",
+            "- Las demás funciones específicamente o transitorios que sean asignadas de acuerdo con la naturaleza de su labor",
+            "- Verificar la calidad del agua tratada o vertida en los centros de operaciones, garantizando el cumplimiento de los parámetros de color, olor, pH, cloro libre, entre otros; necesarios para cumplir con los parámetros establecidos en la normatividad nacional.",
+            "- Realizar seguimiento al proceso de tratamiento de las aguas residuales, mediante test de jarras, toma de muestras de agua en puntos críticos, verificación de estado de unidades de tratamiento entre otras actividades.",
+            "- Reportar e investigar accidentes e incidentes ambientales que se puedan presentar en las áreas asignadas para las operaciones de la compañía, ya sea por personal directo o indirecto de la compañía.",
+            "- Atender las emergencias ambientales, de acuerdo con los procedimientos establecidos, procurando la afectación de los recursos naturales o la generación de vertimientos puntuales a canales de aguas lluvias, el suelo o fuentes de agua.",
+            "- Realizar inspecciones mensuales a los sistemas de tratamiento verificando fugas, estado equipos, estado de controladores de nivel, estado de redes hidráulicas y eléctricas.",
+            "- Realizar inspecciones a los sistemas de contención y atención de emergencias, determinando el consumo de recursos y el estado de cada uno de los elementos.",
+            "- Mantener el orden y aseo dentro de los centros de operaciones, garantizando la correcta separación de residuos, así como el correcto almacenamiento de los residuos especiales, RAEES y residuos peligrosos que se pueden generar.",
+            "- Realizar capacitaciones ambientales programadas para el personal operativo.",
+            "- Las demás funciones específicamente o transitorios que sean asignadas de acuerdo con la naturaleza de su labor"
+        ],
+        "respons_sig": [
+            "- Procurar el cuidado integral de su salud.",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud.",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema integrado de gestión.",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo.",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del Sistema integrado de gestión.",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema integrado de gestión.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Participar en las votaciones del COPASST y CCL.",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema integrado de gestión.",
+            "- Participar proactivamente en el cumplimiento del Programa de Gestión Ambiental: separando correctamente los residuos solidos y líquidos, y no desperdiciando agua ni energía eléctrica.",
+            "- Responsabilizarse del manejo ambiental de su puesto de trabajo y mantenerlo limpio y ordenado."
+        ],
+        "respons_sv": [
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "- Desempeño en relación a los indicadores de los diferentes programas",
+            "- Estado de las comunicaciones en la organización."
+        ]
+    },
+    {
+        "cargo": "Director de Operaciones",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "Operaciones",
+        "jefe": "Gerente General",
+        "supervisa": "Coordinador de Operaciones, Supervisor de Operaciones y Técnico Operativo",
+        "nivel": "Táctico",
+        "objetivo": [
+            "Planear, organizar, implementar toda la logística necesaria para la operación de los nuevos puntos de atención así como de los actuales."
+        ],
+        "autoridad_sig": [
+            "- Informar, en particular, a la alta dirección sobre el desempeño del SIG y sobre las oportunidades de mejora",
+            "- Asegurarse de que se promueva el enfoque al cliente en toda la organización",
+            "- Asegurarse de que la integridad del SIG se mantenga cuando se planifican e implementan cambios en el mismo",
+            "- Autoridad para exigir, a todos los miembros de la organización, las responsabilidades directas y delegadas sobre la documentación, implementación, mantenimiento y mejora del sistema integrado de gestión."
+        ],
+        "educacion": "Profesional en ingeniería industrial y/o  Administración de empresas",
+        "formacion": [
+            "- Curso de 50 y/o 20 horas en el SG-SST"
+        ],
+        "experiencia": "Mínimo 1 años en cargos similares",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa"
+        ],
+        "funciones": [
+            "- Reportar eventualidades a jefe inmediato, utilizando los medios electrónicos establecidos por la organización.",
+            "- Gestionar la mejora continua y la rentabilidad de las áreas de operaciones.",
+            "- Participar en la negociación de contratos comerciales con proveedores de materiales y servicios de la compañía",
+            "- Realizar el montaje operacional de los nuevos puntos de atención, tanto a nivel de la capital como a nivel nacional.",
+            "- Coordinación y direccionamiento de centros de operaciones asignados con disponibilidad las 24 horas",
+            "- Ejecutar labores de apoyo administrativas cuando estas sean requeridas",
+            "- Proporcionar apoyo operativo cuando sea necesario debido al flujo de trabajo.",
+            "- Realizar reportes a las diferentes áreas(Nomina, facturación y otras)",
+            "- Se reunirán semanalmente para programar las actividades a ejecutar en la semana siguiente(las frecuencias estimadas, las actividades que cubre el alcance del objeto contractual, la disponibilidad de vehículos, presupuesto y / o personal requerido)",
+            "- Es el responsable ante los clientes de toda la gestión administrativa del contrato, además de ser el puente.",
+            "- Será el responsable de coordinar, organizar y evaluar tanto el trabajo de los supervisores a su cargo como a estos en cuanto a turnos, horarios, cubrimientos, entre otros.",
+            "- Administrar y ofrecer disponibilidad de los equipos, maquinaria, herramientas, implementos y productos asignados para la ejecución de los contratos.",
+            "- Aplicar la propuesta técnica y el programa de trabajo de los contratos.",
+            "- Implantar el programa de calidad apropiado para la óptima prestación del servicio.",
+            "- Recibir, difundir y practicar los criterios técnicos impartidos para la prestación del servicio.",
+            "- Coordinar  la vigilancia y evaluación de los trabajos correspondientes a los contratos.",
+            "- Practicar inspecciones periódicas a los diferentes trabajos y verificar su calidad.",
+            "- Garantizar la aplicación de las normas de seguridad industrial y salud en el trabajo en cada uno de los puestos de trabajo del contrato.",
+            "- Ordenar la corrección de los trabajos defectuosos y coordinar la reinspección.",
+            "- Orientar, facilitar y coordinar a los supervisores para el desempeño de sus responsabilidades.",
+            "- Vigilar, supervisar y responder por que el servicio de aseo en todas las actividades, procedimientos, aspectos de seguridad y salud en el trabajo y ambiental, como por ejemplo la gestión integral de residuos, entre otras, se cumpla con las condiciones establecidas por los clientes en calidad y oportunidad.",
+            "- Deberá entregar de manera mensual un informe de gestión con los componentes operativos y administrativos del contrato / SST, gestión ambiental, indicadores de calidad, entre otros), como seguimiento a los requisitos y gestión sobre novedades, eventos y acciones en general.",
+            "- Responder por el cuidado y protección de los elementos de propiedad de los clientes",
+            "- Atender y resolver los problemas disciplinarios y actitudinales que se presente con el personal de Lavados Industriales",
+            "- Realizar el plan de acción a ejecutar en el período de vigencia de los contratos y presentar en el informe bimensual el resultado de sus indicadores.",
+            "- Manejo del inventario y stock de todas las maquinas e insumos de mantenimiento en cada C.O.",
+            "- Presentar auditorías internas, manuales, procedimientos, entre otros documentos del proceso de mantenimiento",
+            "- Mantener actualizada el inventario de las herramientas y equipos de los COP",
+            "- Implementar el programa de inspecciones de los equipos",
+            "- Controlar los documentos obsoletos y externos",
+            "- Las actividades deben ser realizadas de acuerdo con la programación.Así mismo, en caso de tener que atender necesidades que se identifiquen para realizar alguna actividad de aseo no programada, deben ser atendidas para no afectar la presentación del servicio con alguno de los vehículos, durante el mismo turno, ya sea con el vehículo en operación comercial o en caso de que requiera ser ingresado a los patios.",
+            "- Demás actividades que le sean asignadas según necesidades del cargo y que sean establecidas con previo aviso."
+        ],
+        "respons_sig": [
+            "- Planificar, implementar y controlar los procesos necesarios para cumplir los requisitos para la provisión de productos y servicios, y para implementar las acciones determinadas.",
+            "- Participar en las votaciones del COPASST y CCL",
+            "- Cumplir dentro de su cargo con las Políticas integral, definidas por la empresa y sus Clientes; así con los procesos establecidos dentro del Sistema de Gestión Integral.",
+            "- Ejecutar el trabajo con seguridad y reportar los actos y condiciones inseguras observadas en el lugar de trabajo.",
+            "- Reportar todo incidente que presente en el lugar de trabajo(accidente con lesión, casi accidentes, lesión menor).",
+            "- Procurar el cuidado integral de su salud",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema de Gestión Integrado: HSEQ",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del SGI",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema de Gestión Integrado HSEQ",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema de gestión integral.",
+            "- Participar proactivamente en el cumplimiento del Programa de Gestión Ambiental: separando correctamente los residuos solidos y líquidos, y no desperdiciando agua ni energía eléctrica",
+            "- Responsabilizarse del manejo ambiental de su puesto de trabajo y mantenerlo limpio y ordenado"
+        ],
+        "respons_sv": [
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "- Desempeño en relación a los indicadores de los diferentes programas",
+            "- Cumplimiento de los planes de acción establecidos",
+            "- Ejecución del presupuesto",
+            "- Estado de las comunicaciones en la organización",
+            "- Estado de la documentación legal y de soporte del SG - SST"
+        ]
+    },
+    {
+        "cargo": "Coordinador Operaciones",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "Operaciones",
+        "jefe": "Director de Operaciones ",
+        "supervisa": "Supervisor de Operaciones y Técnico Operativo",
+        "nivel": "Operativo ",
+        "objetivo": [
+            "Coordinar e implementar toda la logística necesaria para la operación de los nuevos puntos de atención así como de los actuales."
+        ],
+        "autoridad_sig": [
+            "- Informar, en particular, a la alta dirección sobre el desempeño del SIG y sobre las oportunidades de mejora"
+        ],
+        "educacion": "Técnico profesional en Logística, Industrial homologable  con 1 año de experiencia.",
+        "formacion": [
+            "- Licencia de conducción A2, B2, C2.",
+            "- Curso de seguridad Vial y / o formación en normas de seguridad vial"
+        ],
+        "experiencia": "1 año de experiencia en cargos similiares",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa"
+        ],
+        "funciones": [
+            "- Reportar eventualidades a jefe inmediato, utilizando los medios electrónicos establecidos por la organización.",
+            "- Coordinación y direccionamiento de centros de operaciones asignados",
+            "- Ejecutar labores de apoyo administrativas cuando estas sean requeridas.",
+            "- Proporcionar apoyo operativo cuando sea necesario debido al flujo de trabajo.",
+            "- Buscar oportunidades de mejora continua logístico, con la finalidad de optimizar el servicio al cliente, la rentabilidad empresarial y la productividad",
+            "- Realizar reportes a las diferentes áreas(Nomina, facturación y otras)",
+            "- Demás actividades que le sean asignadas según necesidades del cargo y que sean establecidas con previo aviso."
+        ],
+        "respons_sig": [
+            "- Procurar el cuidado integral de su salud.",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud.",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema integrado de gestión.",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo.",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del Sistema integrado de gestión.",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema integrado de gestión.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Participar en las votaciones del COPASST y CCL.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema integrado de gestión.",
+            "- Participar proactivamente en el cumplimiento del Programa de Gestión Ambiental: separando correctamente los residuos solidos y líquidos, y no desperdiciando agua ni energía eléctrica.",
+            "- Responsabilizarse del manejo ambiental de su puesto de trabajo y mantenerlo limpio y ordenado."
+        ],
+        "respons_sv": [
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "- Desempeño en relación a los indicadores de los diferentes programas",
+            "- Estado de las comunicaciones en la organización"
+        ]
+    },
+    {
+        "cargo": "Supervisor Operaciones",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "Operaciones",
+        "jefe": "Director de Operaciones, Coordinador Operaciones",
+        "supervisa": "Técnico Operativo",
+        "nivel": "Operativo",
+        "objetivo": [
+            "Administrar y controlar todos los aspectos involucrados en la correcta operación del punto a su cargo, respondiendo ante los clientes con el cumplimiento de sus requisitos y / o solicitudes."
+        ],
+        "autoridad_sig": [
+            "Informaren particular a la alta dirección sobre el desempeño del SIG y sobre las oportunidades de mejora"
+        ],
+        "educacion": "Bachiller y/o hasta noveno grado y/o homologa con 6 meses de experiencia en labores de aseo",
+        "formacion": [
+            "N/A"
+        ],
+        "experiencia": "Mínimo 6 meses en cargos similares",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa"
+        ],
+        "funciones": [
+            "- Control de personal y asignación de funciones, incluyendo programación de descansos",
+            "- Administración de insumos",
+            "- Garantizar buen servicio ante el cliente",
+            "- Garantizar orden y aseo en las áreas de trabajo a su cargo",
+            "- Reporte y corrección de novedades en operación",
+            "- Realizar reportes a las diferentes áreas",
+            "- Proporcionar apoyo operativo cuando sea necesario debido al flujo de trabajo.",
+            "- Demás actividades que le sean asignadas según necesidades del cargo y que sean establecidas con previo aviso."
+        ],
+        "respons_sig": [
+            "- Procurar el cuidado integral de su salud.",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud.",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema integrado de gestión.",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo.",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del Sistema integrado de gestión.",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema integrado de gestión.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Participar en las votaciones del COPASST y CCL.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema integrado de gestión.",
+            "- Participar proactivamente en el cumplimiento del Programa de Gestión Ambiental: separando correctamente los residuos solidos y líquidos, y no desperdiciando agua ni energía eléctrica."
+        ],
+        "respons_sv": [
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "- Cumplimiento de los planes de acción establecidos"
+        ]
+    },
+    
+    {
+        "cargo": "Coordinador de Mantenimiento",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "Mantenimiento",
+        "jefe": "Director de operaciones",
+        "supervisa": "Tecnico de mantenimiento.",
+        "nivel": "Táctico",
+        "objetivo": [
+            "- Mantener y mejorar  y alcanzar los objetivos del sistema integrado de gestión",
+            "- Garantizar el cumplimiento de las normas legales vigentes, así como la de mantener a la compañía dentro de los mas altos índices del SIG"
+        ],
+        "autoridad_sig": [
+            "- Informar, en particular, a la alta dirección sobre el desempeño del SIG y sobre las oportunidades de mejora",
+            "- Asegurarse de que se promueva el enfoque al cliente en toda la organización",
+            "- Asegurarse de que la integridad del SIG se mantenga cuando se planifican e implementan cambios en el mismo",
+            "- Autoridad para exigir, a todos los miembros de la organización, las responsabilidades directas y delegadas sobre la documentación, implementación, mantenimiento y mejora del sistema integrado de gestión"
+        ],
+        "educacion": "Técnico y/o tecnólogo en mantenimiento o carreras afines homologable con un 1 de experiencia",
+        "formacion": [
+            "- Licencia de conducción A2, B2, C2.",
+            "- Curso de seguridad Vial y / o formación en normas de seguridad vial."
+        ],
+        "experiencia": "Mínimo 1 año  en cargos similares.",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa"
+        ],
+        "funciones": [
+            "- Es responsable de gestionar el mantenimiento global de la empresa, coordinando un grupo de personas cualificadas en diferentes tareas(Mecánica, Electricidad, Electrónica, Informática, etc.)",
+            "- Gestionar la mejora continua y la rentabilidad del área de mantenimiento.",
+            "- Define y planifica la política de mantenimiento, con el objetivo de mejorar el modelo preventivo y establecer metodologías operativas de mantenimiento de manera racional",
+            "- Asegurar el mantenimiento preventivo de la maquinaria e instalaciones.",
+            "- Asigna los trabajos de mantenimiento y se encarga de la dirección, gestión y motivación de los equipos de mantenimiento",
+            "- Revisar  y gestionar el insumo por centro de operaciones.",
+            "- Realizar el montaje operacional de los nuevos puntos de atención, tanto a nivel de la capital como a nivel nacional.",
+            "- Diligenciar ordenes  de servicios  demantenimiento",
+            "- Acompañamiento y supervisión al personal de mantenimiento",
+            "- Asegurar la implementación del sistema de mantenimiento",
+            "- Garantizar una interacción adecuada entre los procesos.",
+            "- Presentar auditorías internas, manuales, procedimientos, entre otros documentos del proceso de mantenimiento",
+            "- Realizar seguimiento a la eficiencia de las acciones correctivas y preventivas de sistema de mantenimiento y el cierre de estas",
+            "- Controlar los documentos obsoletos y externos",
+            "- Asegurar la disponibilidad de las herramientas y equipos",
+            "- Garantizar la trazabilidad de los cambios de herramientas y equipos entre los COP",
+            "- Identificar necesidades de capacitación del personal e implementar programa de formación y capacitación de personal de la compañía en temas competentes con el área",
+            "- Apoyar en la coordinación y supervisión de actividades de montajes en los COP",
+            "- Demás actividades que le sean asignadas según necesidades del cargo y que sean establecidas con previo aviso."
+        ],
+        "respons_sig": [
+            "- Implementación, permanencia y mejora continua del sistema integrado de gestión bajo la directrices y según los recursos que disponga Gerencia.",
+            "- Orientar a todos los colaboradores de la organización en todos los temas relacionados con el sistema integrado de gestión.",
+            "- Vigilar la aplicación y cumplimiento de las Políticas de la compañía.",
+            "- Divulgar e implementar los programas de prevención de riesgos, de acuerdo a las normas legales vigentes y a las necesidades específicas de la organización.",
+            "- Mantener actualizada y dar cumplimiento a lo establecido en la  matriz de requisitos legales.",
+            "- Cumplir con los indicadores de gestión definidos en la normatividad legal vigente y realizar seguimiento a cada uno de los procesos de la organización.",
+            "- Procurar el cuidado integral de su salud.",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud.",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema integrado de gestión.",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo.",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del Sistema integrado de gestión.",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema integrado de gestión.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Participar en las votaciones del COPASST y CCL.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema integrado de gestión.",
+            "- Participar proactivamente en el cumplimiento del Programa de Gestión Ambiental: separando correctamente los residuos solidos y líquidos, y no desperdiciando agua ni energía eléctrica."
+        ],
+        "respons_sv": [
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "- Desempeño en relación a los indicadores de los diferentes programas",
+            "- Estado de las comunicaciones en la organización"
+        ]
+    },
+    {
+        "cargo": "Técnico de Mantenimiento",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "Mantenimiento",
+        "jefe": "Director de Operaciones / coordinador de mantenimiento",
+        "supervisa": "N/T",
+        "nivel": "Operativo",
+        "objetivo": [
+            "Hacer entrega oportuna de la correspondencia y documentación interna y externa de la compañía, siendo receptores de las inquietudes del cliente y trasmitirlas a diferentes dependencias de la compañía."
+        ],
+        "autoridad_sig": [
+            "N/A"
+        ],
+        "educacion": "Bachiller",
+        "formacion": [
+            "- Licencia de conducción A2, B2, C2.",
+            "- Curso de seguridad Vial y / o formación en normas de seguridad vial"
+        ],
+        "experiencia": "N/A",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa"
+        ],
+        "funciones": [
+            "- Manenimiento preventivo y correctivo de los equipos",
+            "- Evalúa la instalación antes y después de un mantenimiento",
+            "- Respuesta oportuna a alertas recibidas en el estado de la maquinaria",
+            "- Entregar correspondencia en el lugar asignado",
+            "- Realizar la entrega y radicación de documentos que le sean entregados.",
+            "- Realizar diligencias bancarias tales como: consignaciones, radicación de correspondencia bancaria, pago de servicios y pago de impuestos, cambios de cheques",
+            "- Mantener en perfecto estado los equipos que le sean asignados.",
+            "- Diligenciar ordenes  de servicios  demantenimiento",
+            "- Otras funciones y responsabilidades que se deriven del cargo."
+        ],
+        "respons_sig": [
+            "- Procurar el cuidado integral de su salud.",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud.",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema integrado de gestión.",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo.",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del Sistema integrado de gestión.",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema integrado de gestión.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Participar en las votaciones del COPASST y CCL.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema integrado de gestión.",
+            "- Participar proactivamente en el cumplimiento del Programa de Gestión Ambiental: separando correctamente los residuos solidos y líquidos, y no desperdiciando agua ni energía eléctrica."
+        ],
+        "respons_sv": [
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "N/A"
+        ]
+    },
+    {
+        "cargo": "Asistencia Gerencia y Auxiliar Contable",
+        "actualizacion": "1/11/2023",
+        "dependiencia": "Contabilidad",
+        "jefe": "Gerente General",
+        "supervisa": "N/A",
+        "nivel": "Estratégico",
+        "objetivo": [
+            "Contribuir con los procesos y procedimientos contables y financieros, con el fin de brindar información contable comprensible, útil, pertinente, confiable, veraz y oportuna  y generar reportes para los órganos de vigilancia y control"
+        ],
+        "autoridad_sig": [
+            "N/A"
+        ],
+        "educacion": "Técnico en contabilidad y finanzas",
+        "formacion": [
+            "N/A"
+        ],
+        "experiencia": "Mínimo 6 meses en cargos similares",
+        "formacion_com": [
+            "- Según programa de capacitación, formación y entrenamiento de la empresa"
+        ],
+        "funciones": [
+            "- Recibir y verificar las facturas o documentos equivalentes con su respectiva orden de compromiso y efectuar la causación contable",
+            "- Realizar el registro contable de la legalización de los anticipos o avances a funcionarios de la compañía",
+            "- Realizar facturas de venta",
+            "- Archiva documentos contables para uso y control interno.",
+            "- Revisa y realiza la codificación de las diferentes cuentas bancarias.",
+            "- Verificar los documentos, datos del cliente.",
+            "- Realizar recaudo de efectivo y manejo de cuentas bancarias",
+            "- Realizar recaudo de cartera",
+            "- Realizar legalizaciones semanales de caja menor",
+            "- Realizar pago de proveedores, nomina, seguridad social, impuestos y demas establecidos por el area",
+            "- Atender quejas y consultas de clientes",
+            "- Preparar y presentar informes analíticos",
+            "- Manejar caja menor",
+            "- Colaborar en auditorías y depuraciones de cuentas mensuales y trimestrales",
+            "- Buen conocimiento de los procedimientos de facturación y nomina electrónica",
+            "- Demas actividades que sean asignadas con referencia al cargo"
+        ],
+        "respons_sig": [
+            "- Procurar el cuidado integral de su salud.",
+            "- Suministrar información clara, veraz y completa sobre su estado de salud.",
+            "- Cumplir las normas, reglamentos e instrucciones del Sistema integrado de gestión.",
+            "- Informar oportunamente al empleador o contratante acerca de los peligros y riesgos latentes en su sitio de trabajo.",
+            "- Participar en las actividades de capacitación en seguridad y salud en el trabajo definido en el plan de capacitación del Sistema integrado de gestión.",
+            "- Participar y contribuir al cumplimiento de los objetivos del Sistema integrado de gestión.",
+            "- Buscar el cumplimiento de los indicadores de gestión definidos en cada uno de  los procesos en los que participa, mediante le cumplimiento de las estrategias establecidas por le área.",
+            "- Participar en las votaciones del COPASST y CCL.",
+            "- Cumplir estrictamente con todas las labores, indicaciones y asignaciones dadas por su superior, cumpliendo cabalmente con procedimientos, normas e instructivos establecidos dentro de los manuales y documentos de la empresa.",
+            "- Cumplir con las políticas, reglamentos y procedimientos de la empresa, establecido en el marco del sistema integrado de gestión.",
+            "- Participar proactivamente en el cumplimiento del Programa de Gestión Ambiental: separando correctamente los residuos solidos y líquidos, y no desperdiciando agua ni energía eléctrica."
+        ],
+        "respons_sv": [
+            "- Reportar oportunamente los siniestros viales en los desplazamientos laborales.",
+            "- Participar en las capacitaciones y actividades relacionadas con seguridad vial.",
+            "- Cumplir con normas, politicas, procedimientos, comportamientos seguros y lineamientos de seguridad vial establecidos por la organización."
+        ],
+        "rendicion_sig": [
+            "- Desempeño en relación a los indicadores de los diferentes programas",
+            "- Estado de las comunicaciones en la organización"
+        ]
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
