@@ -914,8 +914,43 @@
             "- Desempeño en relación a los indicadores de los diferentes programas",
             "- Estado de las comunicaciones en la organización"
         ]
+    },
+    {
+        "cargo": "Técnico Operativo",
+        "actualizacion": "N/A",
+        "dependiencia": "N/A",
+        "jefe": "N/A",
+        "supervisa": "N/A",
+        "nivel": "N/A",
+        "objetivo": [
+            "N/A"
+        ],
+        "autoridad_sig": [
+            "N/A"
+        ],
+        "educacion": "N/A",
+        "formacion": [
+            "N/A"
+        ],
+        "experiencia": "N/A",
+        "formacion_com": [
+            "N/A"
+        ],
+        "funciones": [
+            "N/A"
+        ],
+        "respons_sig": [
+            "N/A"
+        ],
+        "respons_sv": [
+            "N/A"
+        ],
+        "rendicion_sig": [
+            "N/A"
+        ]
     }
 ]
+
 
 
 
